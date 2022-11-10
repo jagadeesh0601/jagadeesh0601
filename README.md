@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PJR027
+- 👋 Hi, I’m Jagadeesh
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on responsive web design, android apps.
